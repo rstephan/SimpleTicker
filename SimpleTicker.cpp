@@ -44,7 +44,7 @@ void SimpleTicker::update(void)
     diff = now - mMillisOld;
   }
   
-  if (diff > mTime) {
+  if (diff >= mTime) {
     mCb();
     mMillisOld = now;
   }
