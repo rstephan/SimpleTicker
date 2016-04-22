@@ -1,0 +1,7 @@
+# Datatypes
+SimpleTicker	KEYWORD1
+
+# Methods
+begin	KEYWORD2
+update	KEYWORD2
+end	KEYWORD2
