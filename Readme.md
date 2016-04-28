@@ -3,9 +3,9 @@ SimpleTicker
 
 A portable version of the Ticker-library found in the ESP8266 Arduino Project.
 
-This SimpleTicker uses the millis()-Function to meassure the differences in
-time after which the action is triggerd. It is not the best in accuracy but portable,
-so it can be used on all Arduino platfroms.
+This SimpleTicker uses the millis()-Function to measure the differences in
+time after which the action is triggered. It is not the best in accuracy but portable,
+so it can be used on all Arduino platforms.
 
 Inspired by ...
 ===============
